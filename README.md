@@ -1,6 +1,6 @@
 # ACL-2017
 
-Accepted Long Papers
+## Accepted Long Papers
 ## Biomedical
 * Enriching Complex Networks with Word Embeddings for Detecting Mild Cognitive Impairment from Speech Transcripts
   Authors: Leandro Santos, Edilson Anselmo Corrêa Júnior, Osvaldo Oliveira Jr, Diego Amancio, Letícia Mansur and Sandra Aluísio
@@ -409,7 +409,7 @@ Authors: Ramakanth Pasunuru and Mohit Bansal
 Authors: Jacob Andreas, Anca Dragan and Dan Klein
 * Verb Physics: Relative Physical Knowledge of Actions and Objects
 Authors: Maxwell Forbes and Yejin Choi
-Accepted Short Papers
+## Accepted Short Papers
 ## Biomedical
 * Neural Architecture for Temporal Relation Extraction: A Bi-LSTM Approach for Detecting Narrative Containers
 Authors: Julien Tourille, Olivier Ferret, Aurelie Neveol and Xavier Tannier
