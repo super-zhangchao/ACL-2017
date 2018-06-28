@@ -6,7 +6,7 @@
   Authors: Leandro Santos, Edilson Anselmo Corrêa Júnior, Osvaldo Oliveira Jr, Diego Amancio, Letícia Mansur and Sandra Aluísio
 ## Cognitive Modelling and Psycholinguistics
 * Alignment at Work: Using Language to Distinguish the Internalization and Self-Regulation Components of Cultural Fit in Organizations
-  Authors: Gabriel Doyle, Amir Goldberg, Sameer Srivastava and Michael Frank
+  * Authors: Gabriel Doyle, Amir Goldberg, Sameer Srivastava and Michael Frank
 * Representations of language in a model of visually grounded speech signal
 Authors: Grzegorz Chrupa?a, Lieke Gelderloos and Afra Alishahi
 * Spectral Analysis of Information Density in Dialogue Predicts Collaborative Task Performance
